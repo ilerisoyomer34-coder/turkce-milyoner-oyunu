@@ -11,7 +11,7 @@
   ];
   const SAFE_POINTS = [5, 11];
 
-  function timeFor(qIndex) { if (qIndex < 6) return 45; if (qIndex < 12) return 35; return 25; }
+  function timeFor(qIndex) { return 60; }
   function levelFor(qIndex) { if (qIndex < 6) return 'kolay'; if (qIndex < 12) return 'orta'; return 'zor'; }
 
   const BANK = {
