@@ -9,7 +9,7 @@
     2000, 4000, 8000, 16000, 32000,
     64000, 125000, 250000, 500000, 1000000
   ];
-  const SAFE_POINTS = [5, 11];
+  const SAFE_POINTS = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14];
 
   function timeFor(qIndex) { return 60; }
   function levelFor(qIndex) { if (qIndex < 6) return 'kolay'; if (qIndex < 12) return 'orta'; return 'zor'; }

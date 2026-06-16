@@ -29,9 +29,7 @@ function GameScreen({ grade, topic, onEnd, onQuit }) {
   const banked = qIndex === 0 ? 0 : Q.LADDER[qIndex - 1];
 
   function safeMoney() {
-    let safe = 0;
-    Q.SAFE_POINTS.forEach(sp => { if (qIndex > sp) safe = Q.LADDER[sp]; });
-    return safe;
+    return banked;
   }
 
   uE(() => {
