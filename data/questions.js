@@ -1289,6 +1289,370 @@
         "answer": 1,
         "explain": "Destanlar: Milletlerin tarihsel ve kültürel köklerini, olağanüstü kahramanları, sözlü geleneği yansıtır (İlyada, Oğuz Kağan). Roman: Bireysel psikoloji, toplumsal gerçeklik, yazılı edebiyatın ürünüdür."
       }
+    ],
+    "Sıfat Türleri": [
+      {
+        "level": "kolay",
+        "text": "Sıfatın (ön adın) görevi nedir?",
+        "options": [
+          "İsimleri niteleyen veya belirten sözcüklerdir",
+          "Fiillerin yerine kullanılan sözcüklerdir",
+          "Eylemleri niteleyen sözcüklerdir",
+          "Cümleye bağlantı kuran sözcüklerdir"
+        ],
+        "answer": 0,
+        "explain": "Sıfatlar isimlerden önce gelerek onları niteler (nasıl?) ya da belirtir (hangi?, kaç?, ne kadar?). 'Güzel çiçek' örneğinde 'güzel' sıfattır."
+      },
+      {
+        "level": "kolay",
+        "text": "'Kırmızı gül' tamlamasında 'kırmızı' sözcüğü hangi tür sıfattır?",
+        "options": [
+          "Niteleme sıfatı",
+          "İşaret sıfatı",
+          "Belgisiz sıfat",
+          "Soru sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Niteleme sıfatları isimlerin rengini, biçimini, durumunu belirterek 'nasıl?' sorusunu yanıtlar. 'Kırmızı gül' → gül nasıl? kırmızı → niteleme sıfatı."
+      },
+      {
+        "level": "kolay",
+        "text": "'Bu kitap çok ilginç.' cümlesinde 'bu' hangi tür sıfattır?",
+        "options": [
+          "İşaret sıfatı",
+          "Niteleme sıfatı",
+          "Sayı sıfatı",
+          "Belgisiz sıfat"
+        ],
+        "answer": 0,
+        "explain": "İşaret sıfatları varlıkları işaret ederek 'hangi?' sorusunu yanıtlar. Bu, şu, o sözcükleri isimlerden önce geldiğinde işaret sıfatıdır."
+      },
+      {
+        "level": "kolay",
+        "text": "'Üç elma' tamlamasında 'üç' sözcüğü hangi tür sıfattır?",
+        "options": [
+          "Asıl sayı sıfatı",
+          "Sıra sayı sıfatı",
+          "Kesir sayı sıfatı",
+          "Belgisiz sıfat"
+        ],
+        "answer": 0,
+        "explain": "Asıl sayı sıfatları varlıkların sayısını kesin olarak belirtir (bir, iki, üç, dört...). 'Üç elma' → elma kaç? üç → asıl sayı sıfatı."
+      },
+      {
+        "level": "kolay",
+        "text": "'Birinci sırada oturuyorum.' cümlesinde 'birinci' hangi tür sıfattır?",
+        "options": [
+          "Sıra sayı sıfatı",
+          "Asıl sayı sıfatı",
+          "Kesir sayı sıfatı",
+          "Niteleme sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Sıra sayı sıfatları varlıkların sırasını bildiren sayı sıfatlarıdır. '-ıncı/-inci' ekiyle yapılır: birinci, ikinci, üçüncü. 'Hangi sıra?' sorusunu yanıtlar."
+      },
+      {
+        "level": "kolay",
+        "text": "'Bazı öğrenciler geç geldi.' cümlesinde 'bazı' hangi tür sıfattır?",
+        "options": [
+          "Belgisiz sıfat",
+          "İşaret sıfatı",
+          "Soru sıfatı",
+          "Niteleme sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Belgisiz sıfatlar varlıkları kesin olmayan, belirsiz biçimde niteler ya da belirtir. Bazı, birkaç, birçok, hiç, her, bütün, tüm bu gruptadır."
+      },
+      {
+        "level": "orta",
+        "text": "'Hangi kitabı okudun?' cümlesinde 'hangi' hangi tür sıfattır?",
+        "options": [
+          "Soru sıfatı",
+          "Belgisiz sıfat",
+          "İşaret sıfatı",
+          "Niteleme sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Soru sıfatları isimlerden önce gelerek soru anlatan sıfatlardır. Hangi, kaç, nasıl, ne, ne kadar gibi sözcükler isimden önce gelince soru sıfatı olur."
+      },
+      {
+        "level": "orta",
+        "text": "Aşağıdaki tamlamalardan hangisinde işaret sıfatı yoktur?",
+        "options": [
+          "Güzel hava",
+          "Bu araba",
+          "Şu kitap",
+          "O çocuk"
+        ],
+        "answer": 0,
+        "explain": "'Güzel hava' tamlamasında 'güzel' niteleme sıfatıdır, işaret sıfatı değildir. Bu, şu, o sözcükleri ise işaret sıfatlarıdır."
+      },
+      {
+        "level": "orta",
+        "text": "'Yarım ekmek' ifadesinde 'yarım' hangi tür sayı sıfatıdır?",
+        "options": [
+          "Kesir sayı sıfatı",
+          "Asıl sayı sıfatı",
+          "Sıra sayı sıfatı",
+          "Üleştirme sayı sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Kesir sayı sıfatları bütünün bir bölümünü ifade eden sayı sıfatlarıdır. Yarım, çeyrek, üçte bir gibi sözcükler kesir sayı sıfatlarıdır."
+      },
+      {
+        "level": "orta",
+        "text": "'Her öğrenci bir kitap getirsin.' cümlesinde kaç sıfat vardır?",
+        "options": [
+          "2 sıfat: her (belgisiz) ve bir (asıl sayı)",
+          "1 sıfat: sadece 'her'",
+          "3 sıfat: her, bir, öğrenci",
+          "Hiç sıfat yok"
+        ],
+        "answer": 0,
+        "explain": "'Her öğrenci' → 'her' belgisiz sıfat. 'Bir kitap' → 'bir' asıl sayı sıfatı. Cümlede iki ayrı sıfat kullanılmıştır."
+      },
+      {
+        "level": "orta",
+        "text": "'İkişer elma dağıtıldı.' cümlesinde 'ikişer' hangi tür sıfattır?",
+        "options": [
+          "Üleştirme sayı sıfatı",
+          "Asıl sayı sıfatı",
+          "Kesir sayı sıfatı",
+          "Sıra sayı sıfatı"
+        ],
+        "answer": 0,
+        "explain": "Üleştirme sayı sıfatları varlıkları eşit bölümlere paylaştıran sayı sıfatlarıdır. '-ar/-er/-şar/-şer' ekiyle yapılır: birer, ikişer, üçer, dörder gibi."
+      },
+      {
+        "level": "zor",
+        "text": "'O güzel sarı çiçekler masanın üzerindeydi.' cümlesinde sıfatları bulunuz.",
+        "options": [
+          "O (işaret), güzel (niteleme), sarı (niteleme) – üç sıfat",
+          "Sadece güzel (niteleme) – bir sıfat",
+          "O ve güzel – iki sıfat",
+          "Güzel, sarı, çiçekler – üç sıfat"
+        ],
+        "answer": 0,
+        "explain": "'O' işaret sıfatı, 'güzel' ve 'sarı' ise niteleme sıfatlarıdır. Üçü de 'çiçekler' ismini niteler/belirtir. 'Çiçekler' isimdir, sıfat değildir."
+      },
+      {
+        "level": "zor",
+        "text": "Sıfat tamlaması ile isim tamlaması arasındaki fark nedir?",
+        "options": [
+          "Sıfat tamlamasında sıfat ismi niteler (ek yok); isim tamlamasında tamlayan ek alır",
+          "İkisi aynı yapıdadır",
+          "Sıfat tamlaması daha uzundur",
+          "İsim tamlamasında sıfat kullanılır"
+        ],
+        "answer": 0,
+        "explain": "Sıfat tamlaması: sıfat + isim, ek almaz ('kırmızı gül'). İsim tamlaması: tamlayan isim + iyelik eki + tamlanan ('gülün yaprağı'). Temel fark ek varlığı ve sözcük türüdür."
+      },
+      {
+        "level": "zor",
+        "text": "Aşağıdaki cümlelerin hangisinde 'eski' sözcüğü sıfat olarak kullanılmamıştır?",
+        "options": [
+          "O eski arkadaşımı özledim.",
+          "Eskisi daha iyiydi.",
+          "Eski günler aklıma geldi.",
+          "Eski ev satılmış."
+        ],
+        "answer": 1,
+        "explain": "'Eskisi' cümlesinde sözcük ismin yerini tutmaktadır (zamir gibi); isim görevindedir, sıfat değildir. Diğer cümlelerde 'eski' bir ismi nitelediği için sıfattır."
+      },
+      {
+        "level": "zor",
+        "text": "'Ne kadar çalışkan bir öğrenci!' cümlesinde 'ne kadar' ve 'çalışkan' sözcüklerinin türlerini belirtiniz.",
+        "options": [
+          "Ne kadar: soru sıfatı (ünlem değeri taşıyor); çalışkan: niteleme sıfatı",
+          "Ne kadar: zarf; çalışkan: isim",
+          "İkisi de niteleme sıfatıdır",
+          "Ne kadar: belgisiz sıfat; çalışkan: zarf"
+        ],
+        "answer": 0,
+        "explain": "'Ne kadar' burada hayret/beğeni anlatan bir ünlem değeri taşısa da 'öğrenci' ismini niteleyen sıfat işlevi görür (soru sıfatı kalıbı). 'Çalışkan' ise doğrudan niteleme sıfatıdır."
+      }
+    ],
+    "Zamir Türleri": [
+      {
+        "level": "kolay",
+        "text": "Zamirin (adılın) görevi nedir?",
+        "options": [
+          "İsimlerin yerini tutan sözcüklerdir",
+          "İsimleri niteleyen sözcüklerdir",
+          "Fiilleri niteleyen sözcüklerdir",
+          "Cümleye bağlantı kuran sözcüklerdir"
+        ],
+        "answer": 0,
+        "explain": "Zamirler (adıllar), söylemde tekrarı önlemek amacıyla isimlerin yerine kullanılan sözcüklerdir. 'Kalem nerede? O masada.' ifadesinde 'o' kalem isminin yerini tutar."
+      },
+      {
+        "level": "kolay",
+        "text": "'Ben, sen, o, biz, siz, onlar' sözcükleri hangi zamir türüdür?",
+        "options": [
+          "Kişi zamiri",
+          "İşaret zamiri",
+          "Dönüşlülük zamiri",
+          "Belgisiz zamir"
+        ],
+        "answer": 0,
+        "explain": "Kişi zamirleri (şahıs zamirleri) birinci, ikinci ve üçüncü şahısları doğrudan karşılayan zamirlerdir: ben (1.t.), sen (2.t.), o (3.t.), biz (1.ç.), siz (2.ç.), onlar (3.ç.)."
+      },
+      {
+        "level": "kolay",
+        "text": "'Bu, şu, o' sözcükleri isimlerden önce gelince sıfat, tek başına kullanılınca ne olur?",
+        "options": [
+          "İşaret zamiri",
+          "Kişi zamiri",
+          "Soru zamiri",
+          "Belgisiz zamir"
+        ],
+        "answer": 0,
+        "explain": "'Bu, şu, o' isimden önce gelirse işaret sıfatı ('bu kitap'), tek başına ismin yerini tutarsa işaret zamiri ('bunu al') olur."
+      },
+      {
+        "level": "kolay",
+        "text": "'Kim geldi?' cümlesinde 'kim' sözcüğü hangi zamir türüdür?",
+        "options": [
+          "Soru zamiri",
+          "Kişi zamiri",
+          "Dönüşlülük zamiri",
+          "İşaret zamiri"
+        ],
+        "answer": 0,
+        "explain": "Soru zamirleri isim yerine kullanılan soru sözcükleridir. Kim, ne, nere(si), hangisi, kaçı, nasılı gibi sözcükler ismin yerini tutarsa soru zamiridir."
+      },
+      {
+        "level": "kolay",
+        "text": "'Kendim yaptım.' cümlesinde 'kendim' hangi zamir türüdür?",
+        "options": [
+          "Dönüşlülük zamiri",
+          "Kişi zamiri",
+          "İşaret zamiri",
+          "Belgisiz zamir"
+        ],
+        "answer": 0,
+        "explain": "Dönüşlülük zamiri 'kendi' sözcüğünün şahıs ekleri almasıyla oluşur: kendim, kendin, kendisi, kendimiz, kendiniz, kendileri. Eylemin özneye döndüğünü vurgular."
+      },
+      {
+        "level": "kolay",
+        "text": "'Birisi kapıyı çaldı.' cümlesinde 'birisi' hangi zamir türüdür?",
+        "options": [
+          "Belgisiz zamir",
+          "Kişi zamiri",
+          "İşaret zamiri",
+          "Soru zamiri"
+        ],
+        "answer": 0,
+        "explain": "Belgisiz zamirler belirli olmayan, kesin bir varlığı göstermeyen zamirlerdir. Birisi, kimse, bazısı, hepsi, biri, hiçbiri, herkes, kimi belgisiz zamirlerdir."
+      },
+      {
+        "level": "orta",
+        "text": "'Bu kitap benim.' cümlesinde 'benim' hangi zamir türüdür?",
+        "options": [
+          "İyelik zamiri",
+          "Kişi zamiri",
+          "Belgisiz zamir",
+          "Soru zamiri"
+        ],
+        "answer": 0,
+        "explain": "İyelik zamirleri sahipliği, aitliği bildiren zamirlerdir. 'Benim, senin, onun, bizim, sizin, onların' sözcükleri iyelik zamiridir. 'Bu kitap benim' = bu kitap bana aittir."
+      },
+      {
+        "level": "orta",
+        "text": "Aşağıdaki cümlelerin hangisinde 'o' sözcüğü zamir olarak kullanılmıştır?",
+        "options": [
+          "O eve git.",
+          "O çocuk çok zeki.",
+          "O kitabı okudum.",
+          "O geldi mi?"
+        ],
+        "answer": 3,
+        "explain": "'O geldi mi?' cümlesinde 'o' tek başına bir kişinin yerini tutmaktadır → kişi zamiri. Diğer cümlelerde 'o' bir isimden önce gelerek işaret sıfatı görevindedir."
+      },
+      {
+        "level": "orta",
+        "text": "'Ne istiyorsun?' cümlesinde 'ne' hangi türdedir?",
+        "options": [
+          "Soru zamiri (ismin yerini tutuyor)",
+          "Soru sıfatı (isimden önce geliyor)",
+          "Belgisiz zamir",
+          "Kişi zamiri"
+        ],
+        "answer": 0,
+        "explain": "'Ne istiyorsun?' cümlesinde 'ne' bir ismin (istenen şeyin) yerini tutmaktadır; herhangi bir isimden önce gelmez. Bu nedenle soru zamiridir."
+      },
+      {
+        "level": "orta",
+        "text": "'Hepsi geldi.' cümlesinde 'hepsi' hangi zamir türüdür?",
+        "options": [
+          "Belgisiz zamir",
+          "Kişi zamiri",
+          "İşaret zamiri",
+          "Dönüşlülük zamiri"
+        ],
+        "answer": 0,
+        "explain": "'Hepsi' belirli olmayan ya da bütünü kapsayan belirsiz bir kitleyi ifade eder. Birisi, hepsi, bazısı, hiçbiri gibi sözcükler belgisiz zamirdir."
+      },
+      {
+        "level": "orta",
+        "text": "Kişi zamiri ile iyelik zamiri arasındaki fark nedir?",
+        "options": [
+          "Kişi zamiri kişinin kendisini gösterir (ben, sen); iyelik zamiri sahipliği belirtir (benim, senin)",
+          "İkisi aynı şeydir",
+          "İyelik zamiri fiil görevindedir",
+          "Kişi zamiri edat görevindedir"
+        ],
+        "answer": 0,
+        "explain": "Kişi zamiri konuşmada kişiyi doğrudan temsil eder: 'Ben geldim.' İyelik zamiri ise kişinin bir şeye sahip olduğunu belirtir: 'Bu kitap benim.' Birincisi özne, ikincisi iyelik ilişkisi kurar."
+      },
+      {
+        "level": "zor",
+        "text": "'Şunları hemen temizleyin!' cümlesinde 'şunları' hangi zamir türüdür ve hangi hali almıştır?",
+        "options": [
+          "İşaret zamiri, belirtme hali (-ları)",
+          "Kişi zamiri, yalın hal",
+          "Belgisiz zamir, yönelme hali",
+          "Soru zamiri, çıkma hali"
+        ],
+        "answer": 0,
+        "explain": "'Şunları': şun- (işaret zamiri kökü) + -lar (çoğul) + -ı (belirtme hali). Bu işaret zamirinin çoğul belirtme halidir. İşaret zamirleri de isimler gibi hal eki alabilir."
+      },
+      {
+        "level": "zor",
+        "text": "'Herkes kendi işine baksın.' cümlesinde zamirleri bulup türlerini belirtiniz.",
+        "options": [
+          "Herkes: belgisiz zamir; kendi: dönüşlülük zamiri",
+          "İkisi de kişi zamiridir",
+          "Herkes: kişi zamiri; kendi: belgisiz zamir",
+          "Yalnızca 'kendi' zamirdir"
+        ],
+        "answer": 0,
+        "explain": "'Herkes' belirsiz bir topluluğu ifade eder → belgisiz zamir. 'Kendi' dönüşlülük zamiridir, işin özneye ait olduğunu vurgular. Cümlede iki farklı zamir türü bir arada kullanılmıştır."
+      },
+      {
+        "level": "zor",
+        "text": "Aşağıdaki sözcüklerden hangisi hem zamir hem sıfat olarak kullanılabilir?",
+        "options": [
+          "Bu",
+          "Ben",
+          "Kendim",
+          "Birisi"
+        ],
+        "answer": 0,
+        "explain": "'Bu' sözcüğü isimden önce gelince işaret sıfatı ('bu kitap'), tek başına ismin yerini tutunca işaret zamiri ('bunu al') olur. Bu, şu, o çift işlevli sözcüklerdir."
+      },
+      {
+        "level": "zor",
+        "text": "'Kimse gelmedi.' cümlesinde 'kimse' hangi zamir türüdür ve cümleye kattığı özellik nedir?",
+        "options": [
+          "Belgisiz zamir; olumsuz anlam içerir (hiç kimse)",
+          "Soru zamiri; soru bildirir",
+          "Kişi zamiri; belirli kişiyi gösterir",
+          "İşaret zamiri; gösterme işlevi taşır"
+        ],
+        "answer": 0,
+        "explain": "'Kimse' olumsuz cümlelerde 'hiç kimse' anlamı taşıyan belgisiz zamirdir. Olumlu cümlede kullanılamaz. Olumsuz yüklemle birlikte anlam bütünlüğü oluşturur."
+      }
     ]
   },
   "6": {
